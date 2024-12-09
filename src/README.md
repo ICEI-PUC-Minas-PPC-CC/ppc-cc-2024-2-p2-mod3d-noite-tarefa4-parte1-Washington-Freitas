@@ -1,11 +1,9 @@
 # Instruções de utilização
 
-## Instalação do Site
+## Acessando o jogo
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Através desse link você terá acesso ao jogo DinoJump na plataforma Gdevelop5
 
-## Histórico de versões
+https://gd.games/washingtonfr/boorish-debt
 
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+Bom jogo...
